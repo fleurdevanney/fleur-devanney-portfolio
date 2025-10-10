@@ -1,3 +1,23 @@
-body {
-  background-color: pink;
+.nav-item {
+  font-family: "cousine";
 }
+
+h1,
+p {
+  font-family: "cousine";
+}
+
+h1 {
+  font-size: 64;
+  line-height: 73;
+}
+
+p {
+  font-size: 24;
+}
+
+.portfolio-hero {
+  margin-top: 150px;
+}
+
+
