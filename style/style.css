@@ -8,16 +8,22 @@ p {
 }
 
 h1 {
-  font-size: 64;
-  line-height: 73;
+  font-size: 64p;
 }
 
 p {
   font-size: 24;
 }
 
-.portfolio-hero {
-  margin-top: 150px;
+#title {
+  margin-bottom: 0px;
 }
 
+img {
+  height: 267px;
+  width: 407px;
+}
 
+.portfolio-hero {
+  margin-top: 100px;
+}
