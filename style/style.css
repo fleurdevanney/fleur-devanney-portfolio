@@ -5,10 +5,11 @@
 h1,
 p {
   font-family: "cousine";
+  margin-left: 30px;
 }
 
 h1 {
-  font-size: 64p;
+  font-size: 64px;
 }
 
 p {
@@ -20,10 +21,32 @@ p {
 }
 
 img {
-  height: 267px;
-  width: 407px;
+  height: 427px;
+  width: 614px;
+  margin-left: 10px;
+  margin-bottom: 100px;
 }
 
 .portfolio-hero {
   margin-top: 100px;
+}
+
+.projects {
+  margin-top: 300px;
+}
+
+.about {
+  margin-top: 175px;
+  margin-right: 500px;
+  margin-left: 10px;
+}
+
+.p-projects {
+  margin-left: 30px;
+  margin-top: 95px;
+}
+
+.contact {
+  margin-top: 300px;
+  margin-bottom: 300px;
 }
