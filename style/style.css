@@ -23,8 +23,8 @@ p {
 img {
   height: 427px;
   width: 614px;
-  margin-left: 10px;
   margin-bottom: 100px;
+  margin-left: 10px;
 }
 
 .portfolio-hero {
@@ -33,6 +33,10 @@ img {
 
 .projects {
   margin-top: 300px;
+}
+
+button {
+  background-color: white;
 }
 
 .about {
@@ -50,4 +54,14 @@ img {
   margin-top: 175px;
   margin-right: 500px;
   margin-left: 10px;
+}
+
+@media (max-width: 600px) {
+  p {
+    margin-right: -413px;
+  }
+}
+
+a {
+  color: black;
 }
