@@ -1,10 +1,15 @@
+:root {
+  --primary-font: "cousine";
+}
+
 .nav-item {
   font-family: "cousine";
 }
 
 h1,
-p {
-  font-family: "cousine";
+p,
+.nav-item {
+  font-family: var(--primary-font);
   margin-left: 30px;
 }
 
