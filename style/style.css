@@ -39,19 +39,18 @@ img {
 
 .about {
   margin-top: 200px;
+  padding-bottom: 200px;
 }
 
 .contact {
   margin-top: 200px;
+  padding-bottom: 200px;
 }
 
 button {
   background-color: white;
 }
 
-a {
-  color: black;
-}
 footer {
   text-align: center;
   padding-bottom: 35px;
@@ -66,5 +65,8 @@ footer {
 
   p {
     font-size: 14px;
+  }
+  footer {
+    font-size: 10px;
   }
 }
